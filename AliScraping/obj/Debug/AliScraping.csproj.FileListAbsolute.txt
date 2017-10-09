@@ -1,0 +1,3 @@
+C:\VSProjects\MyProjects\Aliexpress\WindowsFormsApplication2\AliScraping\bin\Debug\WindowsFormsApplication2.exe.config
+C:\VSProjects\MyProjects\Aliexpress\WindowsFormsApplication2\AliScraping\obj\Debug\WindowsFormsApplication2.exe
+C:\VSProjects\MyProjects\Aliexpress\WindowsFormsApplication2\AliScraping\obj\Debug\WindowsFormsApplication2.pdb
